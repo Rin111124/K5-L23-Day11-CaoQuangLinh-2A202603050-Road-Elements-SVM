@@ -6,4 +6,6 @@ coach_gt/
 submissions/
 out/
 *.zip
+!CaoQuangLinh-fisheye.zip
+!CaoQuangLinh-front.zip
 .env
